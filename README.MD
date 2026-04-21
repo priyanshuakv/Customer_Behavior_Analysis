@@ -13,7 +13,7 @@ Transform this "noise" into a high-performance analytical engine. We didn't just
 ## Introduction 
 This project demonstrates a complete data pipeline that transforms raw retail transaction data into actionable business intelligence. **Using Python (Pandas) for data engineering and PostgreSQL for deep dive analytical querying, the project identifies key drivers of revenue, customer loyalty segments, and product performance**.
 
-The final output includes a structured SQL database and a Power BI/Tableau Dashboard providing a 360-degree view of customer behavior.
+The final output includes a structured SQL database and a Power BI Dashboard providing a 360-degree view of customer behavior.
 
 ## 🛠️ Tech Stack
 
