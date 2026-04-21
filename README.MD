@@ -1,6 +1,6 @@
 # Customer Behavior Analytics: End-to-End ETL & SQL Pipeline
 
-![alt text](/Images/Project_image1.png)
+![Dashboard](/Images/Project_image1.png)
 
 ## Project Overview: From Data Noise to Strategic Clarity
 
